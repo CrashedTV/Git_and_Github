@@ -31,34 +31,39 @@ Then click on "Commit changes" button.
 Setting up Git
 
     To check the version of Git 
+
         git -v or git --version
 
     If Git is not installed then install Git from the below URL:
+        
         URL : https://git-scm.com/downloads
         // Choose Git according to your OS.
 
 Configuring Git
     Configuring Git means that in which GitHub account we are making changes.
 
-    Commands to configure
-    1. git config --global user.name "GitHub_Username"
-    2. git config --global user.email "GitHub_Email"
+    Commands to Configure
+    
+        1. git config --global user.name "GitHub_Username"
+        2. git config --global user.email "GitHub_Email"
 
 
-Remote : GitHub
+Remote : GitHub <br>
 Local : Laptop or PC 
 
-Clone
+Clone <br>
     The repository made in GitHub wilol be cloned on the local machine.
 
-    Command to Colne
+    Command to Clone
+        
         git clone <-https link->
         // Replace the link with the repository link.
 
-Status
+Status <br>
     Used to check the status of the repository.
 
     Command to check status
+        
         git status
 
     Types of status
