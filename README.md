@@ -10,7 +10,8 @@ GitHub
 
 If we start the project by making repository in GitHub first then we perform the following actions.
 
-To create new Repository<br>
+To create new Repository
+
     1. Go to GitHub.com. <br>
     2. Click on "+" button.<br>
     3. Select "New repository".<br>
