@@ -29,7 +29,7 @@ After editing write the message that you have updated.
 Then click on "Commit changes" button.
 
 Setting up Git<br>
-    /tTo check the version of Git 
+    To check the version of Git 
 
         git -v or git --version
 
