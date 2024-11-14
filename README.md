@@ -28,7 +28,7 @@ README file can be updated by clicking on edit icon.
 After editing write the message that you have updated.
 Then click on "Commit changes" button.
 
-Setting up Git
+Setting up Git<br>
 
     To check the version of Git 
 
