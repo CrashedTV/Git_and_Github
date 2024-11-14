@@ -12,16 +12,16 @@ If we start the project by making repository in GitHub first then we perform the
 
 To create new Repository
 
-    1. Go to GitHub.com. <br>
-    2. Click on "+" button.<br>
-    3. Select "New repository".<br>
-    4. Enter the Repository Name.<br>
-    5. Enter the Repository Description.(Optional)<br>
-    6. Select the Repository Visibility.(Public or Private)<br>
+    1. Go to GitHub.com. 
+    2. Click on "+" button.
+    3. Select "New repository".
+    4. Enter the Repository Name.
+    5. Enter the Repository Description.(Optional)
+    6. Select the Repository Visibility.(Public or Private)
         // Private - will be seen by only collaborators and owner.
         // Public - will be seen by everyone.
-    7. Add a README file.<br>
-        // You can write about the projects.<br>
+    7. Add a README file.
+        // You can write about the projects.
     8. Click on "Create repository" button.
 
 README file can be updated by clicking on edit icon.
